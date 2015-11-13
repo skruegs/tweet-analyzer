@@ -6,4 +6,4 @@ This project focuses on implementing different design patterns (Factory Method, 
 To run from the command line:
 - (1) cd into the root folder
 - (2) "javac -cp json-simple-1.1.1.jar *.java"
-- (3) "java Main TEXT 300k_tweets.txt states.csv log.txt" to read input tweets from text file [OR] "java Main JSON 300k_tweets.json states.csv log.txt" to read input tweets from JSON file
+- (3) "java Main TEXT 300k_tweets.txt states.csv log.txt"
